@@ -1,6 +1,6 @@
 # jpa01-AvaneeshVinothK
 
-Deployed at: https://jpa01-avaneeshvinothk.dokku-11.cs.ucsb.edu
+Deployed at: https://jpa01-AvaneeshVinothK.dokku-11.cs.ucsb.edu
 
 
 # About this repo
